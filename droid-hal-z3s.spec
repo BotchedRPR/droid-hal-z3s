@@ -15,6 +15,11 @@
 	/bugreports \
 	/d \
 	/sdcard \
+   	/dsp \
+   	/firmware \
+   	/persist \
+   	/product \
+   	/system_ext \
 %{nil}
 
 %define makefstab_skip_entries / /product /system /system_ext /vendor
